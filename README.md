@@ -10,6 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter, Ruby on Rails**
+- 🌐 Vist my portfolio **https://sophana-portfolio.vercel.app**
 - 📫 How to reach me **sophatsophana12@gmail.com**
 - ⚡ Fun fact **I love connecting with different people 🙌**
 
